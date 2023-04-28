@@ -30,7 +30,11 @@ Honors and Awards
 + RECOMB 2023 Travel Fellowship, Istanbul, 2023
 + National Scholarship for Doctoral Students, 2022
 + Shaanxi Innovation and Entrepreneurship Competition for Scientific and Technical Professionals, 2nd Prize Award, 2020
++ Merit student of UCAS, 2018
++ Outstanding Graduates of Chang’an University, 2017
 + National Scholarship, 2016
++ The sixth national “BD-CASTIC” excellent Award, 2015
++ First Class Student Scholarship in Chang’an University, 2014 & 2015
 
 Education
 ======
