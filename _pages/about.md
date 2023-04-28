@@ -10,17 +10,14 @@ redirect_from:
 
 I'm currently a 3rd year Ph.D student at [School of Life Sciences, Northwestern Polytechnical University](https://shengming.nwpu.edu.cn/Home.htm), supervised by Prof. Jian-Yu Shi. I am also a visiting student at [Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (A * STAR)](https://www.a-star.edu.sg/i2r), supervised by Dr. [Min Wu](https://sites.google.com/site/wumincf/home). Previously, I received the Master degree from the University of Chinese Academy of Sciences (UCAS) in 2020 and the B.Eng degree from Chang'an University in 2017.
 
-Research Interests
-======
-
 My research interest includes AI for Drug discovery and Development (Hit screening, Lead optimization, ADMET prediction and so on), Deep learning, Graph representation learning and its application. 
 
 
 Publications
 ======
-1. **Bing-Xue Du**, Yi Xu, Siu-Ming Yiu, Hui Yu*, Jian-Yu Shi*. MTGL-ADMET: A Novel Multi-task Graph Learning Framework for ADMET Prediction Enhanced by Status-Theory and Maximum Flow. The 27th Annual International Conference on Research in Computational Molecular Biology (RECOMB 2023)(Acceptance rate: 44/188=23.4%). Lecture Notes in Computer Science, pp. 85–103.
-2. **Bing-Xue Du**, Peng-Cheng Zhao, Bei Zhu, Siu-Ming Yiu, Arnold K. Nyamabo, Hui Yu*, Jian-Yu Shi*. MLGL-MP: a Multi-Label Graph Learning framework enhanced by pathway Interdependence for Metabolic Pathway prediction. The 30th Conference on Intelligent Systems for Molecular Biology, Madison (ISMB 2022) (Acceptance rate: 48/243=19.8%) Bioinformatics. 2022,38(S1): i325-i332 (IF=6.937)
-3. **Bing-Xue Du**, Yuan Qin, Yan-Feng Jiang, Yi Xu, Siu-Ming Yiu, Hui Yu*, Jian-Yu Shi*. Compound-protein interaction prediction by deep learning: databases, descriptors, and models. Drug Discovery Today. 2022,27(5):1350-1366. （IF=8.369）
+1. **Bing-Xue Du**, Yi Xu, Siu-Ming Yiu, Hui Yu, Jian-Yu Shi. MTGL-ADMET: A Novel Multi-task Graph Learning Framework for ADMET Prediction Enhanced by Status-Theory and Maximum Flow. The 27th Annual International Conference on Research in Computational Molecular Biology (RECOMB 2023)(Acceptance rate: 44/188=23.4%). Lecture Notes in Computer Science, pp. 85–103.
+2. **Bing-Xue Du**, Peng-Cheng Zhao, Bei Zhu, Siu-Ming Yiu, Arnold K. Nyamabo, Hui Yu, Jian-Yu Shi. MLGL-MP: a Multi-Label Graph Learning framework enhanced by pathway Interdependence for Metabolic Pathway prediction. The 30th Conference on Intelligent Systems for Molecular Biology, Madison (ISMB 2022) (Acceptance rate: 48/243=19.8%) Bioinformatics. 2022,38(S1): i325-i332 (IF=6.937)
+3. **Bing-Xue Du**, Yuan Qin, Yan-Feng Jiang, Yi Xu, Siu-Ming Yiu, Hui Yu, Jian-Yu Shi. Compound-protein interaction prediction by deep learning: databases, descriptors, and models. Drug Discovery Today. 2022,27(5):1350-1366. （IF=8.369）
 
 Talks
 ======
