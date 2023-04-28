@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a 3rd year Ph.D student at [School of Life Sciences, Northwestern Polytechnical University](https://shengming.nwpu.edu.cn/Home.htm), China, supervised by Prof. Jian-Yu Shi. I am also a visiting student at [Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (A * STAR)](https://www.a-star.edu.sg/i2r), Singapore, supervised by Dr. [Min Wu](https://sites.google.com/site/wumincf/home). Previously, I received the Master degree from the University of Chinese Academy of Sciences (UCAS) in 2020 and the B.Eng degree from Chang'an University in 2017.
+I'm currently a 3rd year Ph.D student at [School of Life Sciences, Northwestern Polytechnical University](https://shengming.nwpu.edu.cn/Home.htm), supervised by Prof. Jian-Yu Shi. I am also a visiting student at [Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (A * STAR)](https://www.a-star.edu.sg/i2r), supervised by Dr. [Min Wu](https://sites.google.com/site/wumincf/home). Previously, I received the Master degree from the University of Chinese Academy of Sciences (UCAS) in 2020 and the B.Eng degree from Chang'an University in 2017.
 
 My research interest include AI for Drug discovery and Development (e.g., Hit screening, Lead optimization, ADMET prediction and so on), Deep learning, Graph representation learning and its application. 
 
