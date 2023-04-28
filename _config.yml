@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bingxue Du (杜冰雪）"
+title                    : "Bing-Xue Du (杜冰雪）"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Bingxue Du"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "NPU & A * STAR"
   location         : "Singapore"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
