@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 3rd year Ph.D student at School of Life Sciences, Northwestern Polytechnical University, supervised by Prof.Jian-Yu Shi. I am also a visiting student at Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (A * STAR), supervised by Dr. Min Wu. Previously, I received the master degree from the University of Chinese Academy of Sciences (UCAS) in 2020 and the B.Eng degree from Chang'an University in 2017.
+I'm a 3rd year Ph.D student at School of Life Sciences, Northwestern Polytechnical University, supervised by Prof.Jian-Yu Shi. I am also a visiting student at Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (A * STAR), supervised by Dr. [Min Wu](https://sites.google.com/site/wumincf/home). Previously, I received the master degree from the University of Chinese Academy of Sciences (UCAS) in 2020 and the B.Eng degree from Chang'an University in 2017.
 
 
 My research interest includes AI for Drug discovery and Development (Hit screening, Lead optimization, ADMET prediction and so on), Deep learning, Graph representation learning and its application. 
