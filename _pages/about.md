@@ -38,9 +38,9 @@ Honors and Awards
 
 Education
 ======
-+ 2020.09-Now, Ph.D student, Northwestern Polytechnical University, Xi’an China
++ 2020.09-Now, Ph.D Candidate, Northwestern Polytechnical University, Xi’an China
 + 2017.09-2020.07 M.S., University of Chinese Academy of Sciences (UCAS), Beijing, China
-+ 2013.08-2017.07 B.Eng., Chang’an University, Xi’an China
++ 2013.08-2017.07 B.S., Chang’an University, Xi’an China
 
 Experience
 ======
