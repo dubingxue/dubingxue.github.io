@@ -24,11 +24,17 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Honors and Awards
 ======
-1. Regi
-
++ [ISMB 2022 Ian Lawson Van Toch Memorial Award for Outstanding Student Paper Honorable Mention](https://www.iscb.org/ismb2022-general-info/award-winners), 2022 
++ RECOMB 2023 Travel Fellowship, Istanbul, 2023
++ National Scholarship for Doctoral Students, 2022
++ Shaanxi Innovation and Entrepreneurship Competition for Scientific and Technical Professionals, 2nd Prize Award, 2020
++ National Scholarship, 2016
 
 Education
 ======
++ 2020.09-now, 
++ 2017.09-2020.07 M.S. University of Chinese Academy of Sciences (UCAS), Beijing, China
++ 2013.08-2017.07 B.Eng., Chang’an University, Xi’an China
 
 Experience
 ======
