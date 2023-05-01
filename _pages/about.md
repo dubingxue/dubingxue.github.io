@@ -14,7 +14,7 @@ Research Interests
 ======
 My primary research interests include deep learning, graph neural networks and AI for drug discovery and development. The specific topics I have focused on and published several papers as first author on various sequential tasks in drug candidate screening, including compound-protein interaction prediction (Du et al., **Drug Discovery Today**, 2022), drug metabolic pathway prediction (Du et al., **ISMB 2022 & Bioinformatics**) , drug pharmacokinetics and safety (ADMET) prediction (Du et al., **RECOMB 2023**) and drug metabolic stability prediction (Du et al., **Bioinformatics**, under review, 2023). These researches are highly expected to obtain reliable drug candidates and speed up the process of drug discovery.
 
-In particularly, I won the [Outstanding Student Paper Honorable Mention](https://www.iscb.org/ismb2022-general-info/award-winners) of Ian Lawson Van Toch Memorial Award granted by **the Princess Margaret Cancer Foundation** in 2022. I have a dream and a strong interest to be as excellent as Ian Lawson Van Toch and to make new breakthroughs in drug discovery or other cutting-edge issues in computational biology in the future. 
+In particularly, I won the [Outstanding Student Paper Honorable Mention](https://www.iscb.org/ismb2022-general-info/award-winners) of Ian Lawson Van Toch Memorial Award granted by **the Princess Margaret Cancer Foundation** in ISMB 2022 conference. I have a dream and a strong interest to be as excellent as Ian Lawson Van Toch and to make new breakthroughs in drug discovery or other cutting-edge issues in computational biology in the future. 
 
 Talks
 ======
