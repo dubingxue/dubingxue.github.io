@@ -39,6 +39,7 @@ Honors and Awards
 + Excellent Recommended Postgraduate Scholarship of UCAS, 2016
 + National Scholarship, 2016
 + The sixth national “BD-CASTIC” excellent Award, 2015
++ Excellent Student Cadre in Chang’an University, 2015
 + First Class Student Scholarship in Chang’an University, 2014 & 2015
 
 Education
