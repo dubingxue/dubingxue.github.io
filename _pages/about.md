@@ -10,7 +10,11 @@ redirect_from:
 
 I'm currently a 3rd year Ph.D student at [School of Life Sciences, Northwestern Polytechnical University](https://shengming.nwpu.edu.cn/Home.htm), supervised by Prof. [Jian-Yu Shi](https://www.researchgate.net/profile/Jian-Yu-Shi). I am also a visiting student at [Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (A * STAR)](https://www.a-star.edu.sg/i2r), supervised by Dr. [Min Wu](https://sites.google.com/site/wumincf/home). Previously, I received the Master's degree from the University of Chinese Academy of Sciences (UCAS) in 2020 and the Bachelor's degree from Chang'an University in 2017.
 
-My research interest include AI for Drug discovery and Development (e.g., Hit screening, Lead optimization, ADMET prediction and so on), Deep learning, Graph representation learning and its application. 
+Research Interests
+======
+My primary research interests include deep learning, graph neural networks and AI for drug discovery and development. The specific topics I have lied in and published several papers as first author include various sequential tasks in drug candidate screening, compound-protein interaction prediction (Du et al., Drug Discovery Today, 2022), drug metabolic pathway prediction (Du., et al., ISMB 2022 & Bioinformatics) , drug Pharmacokinetics and safety (ADMET) prediction (Du., et al, RECOMB 2023) and Drug metabolic stability prediction (Du., et al, Bioinformatics, Under review, 2023) to obtain reliable drug candidates. 
+
+In particularly, I won the [Outstanding Student Paper Honorable Mention](https://www.iscb.org/ismb2022-general-info/award-winners) of Ian Lawson Van Toch Memorial Award sponsored by the Princess Margaret Hospital Foundation in 2022. I have a dream to be as excellent as Ian Lawson Van Toch and to make new breakthroughs in drug discovery or other cutting-edge issues in computational biology in the future. 
 
 Talks
 ======
