@@ -31,7 +31,7 @@ Honors and Awards
 ======
 + [ISMB 2022 Outstanding Student Paper Honorable Mention (Ian Lawson Van Toch Memorial Award)](https://www.iscb.org/ismb2022-general-info/award-winners), 2022 
 + RECOMB 2023 Travel Fellowship, Istanbul, 2023
-+ National Scholarship for Doctoral Students (~1%), 2022
++ China National Scholarship for Doctoral Students (~1%), 2022
 + Shaanxi Innovation and Entrepreneurship Competition for Scientific and Technical Professionals, 2nd Prize Award, 2020
 + Excellent Student Cadre in UCAS, 2019
 + Merit student of UCAS, 2018
