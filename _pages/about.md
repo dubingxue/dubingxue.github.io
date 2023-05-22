@@ -21,6 +21,7 @@ Talks
 + 2023.04 Oral presenter, The 27th Annual International Conference on Research in Computational Molecular Biology (**RECOMB 2023**), Istanbul, Turkey
 + 2022.07 Oral presenter, The 30th Conference on Intelligent Systems for Molecular Biology (**ISMB 2022**), Madison, United States
 + 2022.06 Oral presenter, The 6th QMUL-NPU PhD Summer School and Workshop, London & Xi'an
+
 Publications
 ======
 1. **Bing-Xue Du**, Yi Xu, Siu-Ming Yiu, Hui Yu, Jian-Yu Shi. MTGL-ADMET: A Novel Multi-task Graph Learning Framework for ADMET Prediction Enhanced by Status-Theory and Maximum Flow. The 27th Annual International Conference on Research in Computational Molecular Biology (**RECOMB 2023**)(Acceptance rate: 44/188=23.4%)(Early Accept). Lecture Notes in Computer Science, [pp. 85–103](https://link.springer.com/chapter/10.1007/978-3-031-29119-7_6).
