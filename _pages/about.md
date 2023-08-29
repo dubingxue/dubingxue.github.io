@@ -30,7 +30,7 @@ Publications
 3. **Bing-Xue Du**, Yuan Qin, Yan-Feng Jiang, Yi Xu, Siu-Ming Yiu, Hui Yu, Jian-Yu Shi. Compound-protein interaction prediction by deep learning: databases, descriptors, and models. ***Drug Discovery Today***. [2022,27(5):1350-1366](https://www.sciencedirect.com/science/article/pii/S1359644622000848). （IF=8.369）
 4. **Bing-Xue Du**, Yahui Long, Xiaoli Li, Min Wu, Jian-Yu Shi. CMMS-GCL: Cross-Modality Metabolic Stability Prediction with Graph Contrastive Learning. ***Bioinformatics***. [2023,39(8): btad503](https://academic.oup.com/bioinformatics/article/39/8/btad503/7241687) (IF=5.8)
 5. **Bing-Xue Du**, Yi Xu, Siu-Ming Yiu, Hui Yu, Jian-Yu Shi. ADMET Property Prediction via Multi-task Graph Learning under Adaptive Auxiliary Task Selection.
- (**iScience**), (under review)
+ ***iScience***, (under review)
 
 Honors and Awards
 ======
