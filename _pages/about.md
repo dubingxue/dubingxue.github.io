@@ -31,7 +31,7 @@ Publications
 4. **Bing-Xue Du**, Yahui Long, Xiaoli Li, Min Wu*, Jian-Yu Shi*. CMMS-GCL: Cross-Modality Metabolic Stability Prediction with Graph Contrastive Learning. ***Bioinformatics***. [2023,39(8): btad503](https://academic.oup.com/bioinformatics/article/39/8/btad503/7241687) (IF=5.8)
 5. **Bing-Xue Du**, Yi Xu, Siu-Ming Yiu, Hui Yu*, Jian-Yu Shi*. ADMET Property Prediction via Multi-task Graph Learning under Adaptive Auxiliary Task Selection.
  ***iScience***, (under review)
-6. **Bing-Xue Du**, Haoyang Yu#, Bei Zhu#, Yahui Long, Min Wu*, Jian-Yu Shi*. GELKcat: An Integration Learning of Substrate Graph with Enzyme Embedding for Kcat Prediction. ***BIBM 2023***, (under review)
+6. **Bing-Xue Du#**, Haoyang Yu#, Bei Zhu#, Yahui Long, Min Wu*, Jian-Yu Shi*. GELKcat: An Integration Learning of Substrate Graph with Enzyme Embedding for Kcat Prediction. ***BIBM 2023***, (under review)
 
 Honors and Awards
 ======
