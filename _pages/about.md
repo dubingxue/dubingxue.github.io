@@ -32,11 +32,12 @@ Publications
 4. **Bing-Xue Du**, Yahui Long, Xiaoli Li, Min Wu\*, Jian-Yu Shi\*. CMMS-GCL: Cross-Modality Metabolic Stability Prediction with Graph Contrastive Learning. ***Bioinformatics***. [2023,39(8): btad503](https://academic.oup.com/bioinformatics/article/39/8/btad503/7241687) (2023 IF=5.8)
 5. **Bing-Xue Du**, Yi Xu, Siu-Ming Yiu, Hui Yu\*, Jian-Yu Shi\*. ADMET Property Prediction via Multi-task Graph Learning under Adaptive Auxiliary Task Selection.
  ***iScience***, (Accept)
-6. **Bing-Xue Du#**, Haoyang Yu#, Bei Zhu#, Yahui Long, Min Wu\*, Jian-Yu Shi\*. GELKcat: An Integration Learning of Substrate Graph with Enzyme Embedding for Kcat Prediction. ***BIBM 2023***, (under review)
+6. **Bing-Xue Du#**, Haoyang Yu#, Bei Zhu#, Yahui Long, Min Wu\*, Jian-Yu Shi\*. GELKcat: An Integration Learning of Substrate Graph with Enzyme Embedding for Kcat Prediction. ***BIBM 2023***, (Accept)
 
 Honors and Awards
 ======
-+ [ISMB 2022 Outstanding Student Paper Honorable Mention (Ian Lawson Van Toch Memorial Award)](https://www.iscb.org/ismb2022-general-info/award-winners), 2022 
++ [ISMB 2022 Outstanding Student Paper Honorable Mention (Ian Lawson Van Toch Memorial Award)](https://www.iscb.org/ismb2022-general-info/award-winners), 2022
++ First Class Student Scholarship, 2022 & 2023
 + RECOMB 2023 Travel Fellowship, Istanbul, 2023
 + China National Scholarship for Doctoral Students (~1%), 2022
 + Shaanxi Innovation and Entrepreneurship Competition for Scientific and Technical Professionals, 2nd Prize Award, 2020
