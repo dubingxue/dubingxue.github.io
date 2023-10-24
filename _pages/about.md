@@ -40,6 +40,7 @@ Honors and Awards
 + First Class Student Scholarship, 2022 & 2023
 + RECOMB 2023 Travel Fellowship, Istanbul, 2023
 + China National Scholarship for Doctoral Students (~1%), 2022
++ Outstanding Graduate Student, 2022 & 2023
 + Shaanxi Innovation and Entrepreneurship Competition for Scientific and Technical Professionals, 2nd Prize Award, 2020
 + Excellent Student Cadre in UCAS, 2019
 + Merit student of UCAS, 2018
