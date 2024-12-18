@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a 4th year Ph.D. student at [School of Life Sciences, Northwestern Polytechnical University](https://shengming.nwpu.edu.cn/Home.htm), supervised by Prof. [Jian-Yu Shi](https://www.researchgate.net/profile/Jian-Yu-Shi). I am also a visiting student at [Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (A * STAR)](https://www.a-star.edu.sg/i2r), supervised by Dr. [Min Wu](https://sites.google.com/site/wumincf/home). Previously, I received the Master's degree from the University of Chinese Academy of Sciences (UCAS) in 2020 and the Bachelor's degree from Chang'an University in 2017.
+I'm currently a postdoctoral fellow collaboratively supported by the University of Hong Kong (HKU) and Northwestern Polytechnical University (NPU) under the [2024 Hong Kong Scholars Program](https://www.hkscholars.org/a/139299-eng). I am currently collaborating with Prof. [Yuanhua Huang](https://statbiomed.github.io/) and Prof. [WONG, Jason Wing Hon](https://www.sbms.hku.hk/staff/jason-wing-hon-wong) at HKU, as well as [Jian-Yu Shi](https://www.researchgate.net/profile/Jian-Yu-Shi) at NPU. Previously, I was awarded a Ph.D. degree from NPU in 2024, a Master's degree from the University of Chinese Academy of Sciences (UCAS) in 2020, and a Bachelor's degree from Chang'an University in 2017. I am also a visiting student at [Institute for Infocomm Research (I2R), A * STAR](https://www.a-star.edu.sg/i2r), supervised by Dr. [Min Wu](https://sites.google.com/site/wumincf/home). 
 
 Research Interests
 ======
@@ -18,6 +18,8 @@ In particular, I won the [Outstanding Student Paper Honorable Mention](https://w
 
 Talks
 ======
++ 2024.11 Oral presenter, The 15th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (**ACM BCB 2024**), Shenzhen, China
++ 2023.12 Oral presenter, 2023 IEEE International Conference on Bioinformatics and Biomedicine (**BIBM 2023**), Istanbul, Turkey.
 + 2023.04 Oral presenter, The 27th Annual International Conference on Research in Computational Molecular Biology (**RECOMB 2023**), Istanbul, Turkey
 + 2022.07 Oral presenter, The 30th Conference on Intelligent Systems for Molecular Biology (**ISMB 2022**), Madison, United States
 + 2022.06 Oral presenter, The 6th QMUL-NPU PhD Summer School and Workshop, London & Xi'an
@@ -31,14 +33,15 @@ Publications
 3. **Bing-Xue Du**, Yuan Qin, Yan-Feng Jiang, Yi Xu, Siu-Ming Yiu, Hui Yu\*, Jian-Yu Shi\*. Compound-protein interaction prediction by deep learning: databases, descriptors, and models. ***Drug Discovery Today***. [2022,27(5):1350-1366](https://www.sciencedirect.com/science/article/pii/S1359644622000848). （2022 IF=8.369）
 4. **Bing-Xue Du**, Yahui Long, Xiaoli Li, Min Wu\*, Jian-Yu Shi\*. CMMS-GCL: Cross-Modality Metabolic Stability Prediction with Graph Contrastive Learning. ***Bioinformatics***. [2023,39(8): btad503](https://academic.oup.com/bioinformatics/article/39/8/btad503/7241687) (2023 IF=5.8)
 5. **Bing-Xue Du**, Yi Xu, Siu-Ming Yiu, Hui Yu\*, Jian-Yu Shi\*. ADMET Property Prediction via Multi-task Graph Learning under Adaptive Auxiliary Task Selection.
- ***iScience***, (Accept)
-6. **Bing-Xue Du#**, Haoyang Yu#, Bei Zhu#, Yahui Long, Min Wu\*, Jian-Yu Shi\*. GELKcat: An Integration Learning of Substrate Graph with Enzyme Embedding for Kcat Prediction. ***BIBM 2023***, (Accept)
+ ***iScience***. [2023,26(11): 108285](https://www.sciencedirect.com/science/article/pii/S2589004223023623). (2023 IF=5.8)
+6. **Bing-Xue Du#**, Haoyang Yu#, Bei Zhu#, Yahui Long, Min Wu\*, Jian-Yu Shi\*. GELKcat: An Integration Learning of Substrate Graph with Enzyme Embedding for Kcat Prediction. 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2023) ***BIBM 2023***, IEEE Computer Society, [2023: 408-411](https://ieeexplore.ieee.org/document/10385630).
 
 Honors and Awards
 ======
-+ [ISMB 2022 Outstanding Student Paper Honorable Mention (Ian Lawson Van Toch Memorial Award)](https://www.iscb.org/ismb2022-general-info/award-winners), 2022
++ Best Paper Runner-up Award of ACM BCB, 2024
 + First Class Student Scholarship, 2022 & 2023
 + RECOMB 2023 Travel Fellowship, Istanbul, 2023
++ [ISMB 2022 Outstanding Student Paper Honorable Mention (Ian Lawson Van Toch Memorial Award)](https://www.iscb.org/ismb2022-general-info/award-winners), 2022
 + China National Scholarship for Doctoral Students (~1%), 2022
 + Outstanding Graduate Student, 2022 & 2023
 + Shaanxi Innovation and Entrepreneurship Competition for Scientific and Technical Professionals, 2nd Prize Award, 2020
@@ -53,7 +56,7 @@ Honors and Awards
 
 Education
 ======
-+ 2020.09-Now, Ph.D Candidate, Northwestern Polytechnical University, Xi’an, China
++ 2020.09-2024.06, Ph.D, Northwestern Polytechnical University, Xi’an, China
 + 2017.09-2020.07 M.S., University of Chinese Academy of Sciences (UCAS), Beijing, China
 + 2013.08-2017.07 B.S., Chang’an University, Xi’an, China
 
