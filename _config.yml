@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "dubingxue1026@foxmail.com"
+    email                : "dubingxue@mail.nwpu.edu.cn"
   generatedFields:
     date:
       type               : "date"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Bingxue Du"
   avatar           : "profile.png"
-  bio              : "NPU & A * STAR"
-  location         : "Xi'an"
+  bio              : "HKU & NPU"
+  location         : "Hong Kong"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=QU5vkpoAAAAJ&hl=en"
